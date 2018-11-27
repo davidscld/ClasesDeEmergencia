@@ -10,7 +10,11 @@ package clasesdeemergencia;
  * @author dvdsa
  */
 public class ClasesDeEmergencia {
-
+//Primero hacer el commit de la clase modificada
+    /*
+    Para subir -- push a vuestro nombre
+    Para bajar -- pull del otro en CADA clase correspondiente
+    */
     /**
      * @param args the command line arguments
      */
