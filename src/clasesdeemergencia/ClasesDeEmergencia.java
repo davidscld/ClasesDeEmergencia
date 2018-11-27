@@ -16,6 +16,7 @@ public class ClasesDeEmergencia {
      */
     public static void main(String[] args) {
         System.out.println("Eyyy");
+        System.out.println("cabrooon");
     }
     
 }
