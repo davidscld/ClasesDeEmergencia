@@ -10,5 +10,5 @@ package clasesdeemergencia;
  * @author dvdsa
  */
 public class Tclass {
-    
+    private int n;
 }
