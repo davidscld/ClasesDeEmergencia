@@ -26,7 +26,11 @@ public class ClasesDeEmergencia {
         !!!!!!!!!!!!!!!!!!1ALGUNA HA CONSEGUIDO HACER BIEN EL DE LA PIRAMIDE!!!!!!!!!!!!!!!!!
         ************
         */
-        /*NOO, ME ESTOY BASANDO EN EL DE LAS FLECHAS, SI NO LO TENEIS OS LO PASO*/
+        
+        
+        /*SOY SOL*/
+        /*HOLA NO ME SALE*/
+        /*NO LO HE HECHO ESTOY INTENTANDOLO CON EL DE LAS FLECHAS, NO ME SALE CASI NA*/
     }
     
 }
