@@ -11,5 +11,5 @@ package clasesdeemergencia;
  */
 public class Tclass {
     private int n;
-    //que va, no me sale nada
+    //que va, no me sale nada, pero lo que se dice nada de nada
 }
