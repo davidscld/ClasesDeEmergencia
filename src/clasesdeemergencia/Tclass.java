@@ -11,5 +11,5 @@ package clasesdeemergencia;
  */
 public class Tclass {
     private int n;
-    //para pintar espacio en el html es &nbsp; por si alguno lo necesitais
+    //que va, no me sale nada
 }
