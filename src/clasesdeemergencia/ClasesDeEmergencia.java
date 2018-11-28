@@ -17,6 +17,11 @@ public class ClasesDeEmergencia {
     public static void main(String[] args) {
         System.out.println("Eyyy");
         System.out.println("cabrooon");
+        /*
+        ************
+        !!!!!!!!!!!!!!!!!!1ALGUNA HA CONSEGUIDO HACER BIEN EL DE LA PIRAMIDE!!!!!!!!!!!!!!!!!
+        ************
+        */
     }
     
 }
